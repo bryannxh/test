@@ -1,0 +1,67 @@
+body
+{
+	background-color: #FFEFD5;
+	font-family: Segoe UI;
+}
+a{
+	text-decoration: none;
+	color: red; 
+}
+h1{
+	margin:  0;
+}
+#container
+{
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header
+{
+	background-color: #E0FFFF;
+	color: black;
+	text-align: center;
+	padding: 10px;
+}
+
+#content
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+#nav
+{
+	background-color: yellow;
+	width: 180px;
+	float: left;
+
+}
+#nav ul{
+	list-style-type: none;
+	padding: 0;
+}
+
+}
+#main
+{
+	background-color: blue;
+	width:600px;
+	float: right;
+	
+
+}
+#footer
+{
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color:white;
+	text-align: right;
+
+}
+
